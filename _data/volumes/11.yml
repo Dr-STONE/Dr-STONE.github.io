@@ -1,0 +1,47 @@
+volume: 11
+name: "First Contact"
+chapters:
+  - chapter: 89
+    name: "Adventures" 
+    raw: "冒険者たち Bōkensha-tachi"
+    description: ""
+
+  - chapter: 90
+    name: "New World Map" 
+    raw: "NEWニュー WORLDワールド MAPマップ Nyū Wārudo Mappu"
+    description: ""
+
+  - chapter: 91
+    name: "Need Bread? Start with Wheat" 
+    raw: "パンが無ければ麦から作ればいいじゃない Pan ga Nakereba Mugi kara Tsukureba ī Janai"
+    description: ""
+
+  - chapter: 92
+    name: "Desire is Noble" 
+    raw: "欲しいイコール正義 Hoshī Ikōru Seigi"
+    description: ""
+
+  - chapter: 93
+    name: "The First Shot is Yours" 
+    raw: "一枚目はあなたに Ichi-mai-me wa Anata ni"
+    description: ""
+
+  - chapter: 94
+    name: "The Scent of Black Gold" 
+    raw: "黒い宝石ブラックジュエルの香り Burakku Jueru no Kaori"
+    description: ""
+
+  - chapter: 95
+    name: "First Contact" 
+    raw: "ファーストコンタクト Fāsuto Kontakuto"
+    description: ""
+
+  - chapter: 96
+    name: "Eye of Science" 
+    raw: "科学の眼 Kagaku no Me"
+    description: ""
+
+  - chapter: 97
+    name: "The Joy of Leadership" 
+    raw: "楽しい帝王学 Tanoshī Teiō-gaku"
+    description: ""

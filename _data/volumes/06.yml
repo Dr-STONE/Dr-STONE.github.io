@@ -1,0 +1,47 @@
+volume: 06
+name: "Stone Wars"
+chapters:
+  - chapter: 44
+    name: "One Hundred Nights, One Thousand Skies" 
+    raw: "百の夜と千の空 Hyaku no Yoru to Sen no Sora"
+    description: ""
+
+  - chapter: 45
+    name: "Epiloge of Part 1 (End of Part 1) Part 2: Stone Wars" 
+    raw: "Epilogueエピローグ ofオブ Chapterチャプター１(第一章最終話) Epirōgu Obu Chaputā Ichi (Dai Isshō Saishō-wa)"
+    description: ""
+
+  - chapter: 46
+    name: "Stone Wars" 
+    raw: " STONEストーン WARSウォーズ, Sutōn Wōzu"
+    description: ""
+
+  - chapter: 47
+    name: "Science vs. Power" 
+    raw: "SCIENCEサイエンス VSバーサス POWERパワー Saiensu Bāsasu Pawā"
+    description: ""
+
+  - chapter: 48
+    name: "Blades of Science" 
+    raw: "科学の刃 Kagaku no Yabai"
+    description: ""
+
+  - chapter: 49
+    name: "To the Present" 
+    raw: "そして現代へ Soshite Gendai"
+    description: ""
+
+  - chapter: 50
+    name: "Humanity's Greatest Weapon" 
+    raw: "人類最強の武器 Jinrui Saikyō no Buki"
+    description: ""
+    
+  - chapter: 51
+    name: "Sweets for the Stone World" 
+    raw: "石の世界にスイーツ Ishi no Sekai ni Suītsu"
+    description: ""
+
+  - chapter: 52
+    name: "Age of Energy" 
+    raw: "動力の時代 Dōryoku no Jidai"
+    description: ""

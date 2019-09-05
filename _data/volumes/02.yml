@@ -1,0 +1,47 @@
+volume: 02
+name: "Two Kingdoms of the Stone World"
+chapters:
+  - chapter: 8
+    name: "Raise the Smoke Signal" 
+    raw: "狼煙をあげろ Noroshi o Agero"
+    description: ""
+
+  - chapter: 9
+    name: "Senku vs. Tsukasa" 
+    raw: "千空VSバーサス司 Senkū Bāsasu Tsukasa"
+    description: ""
+
+  - chapter: 10
+    name: "Students of Science" 
+    raw: "科学の徒 Kagaku no To"
+    description: ""
+
+  - chapter: 11
+    name: "Weapons of Science" 
+    raw: "科学の武器 Kagaku no Buki"
+    description: ""
+
+  - chapter: 12
+    name: "Epilogue of Prologue (End of Part 0" 
+    raw: "エピローグ オブ プロローグ (序章最終話) Epirōgu obu Purorōgu (Joshō Saishū-wa)"
+    description: ""
+
+  - chapter: 13
+    name: "Part 1: Stone World: The Beginning" 
+    raw: "第一章 ストーン ワールド ザ ビギニング Dai Itsushō Sutōn Wārudo Za Biginingu"
+    description: ""
+
+  - chapter: 14
+    name: "Those Who Have Faith" 
+    raw: "信ずるもの Shinzuru Mono"
+    description: ""
+
+  - chapter: 15
+    name: "Two Kingdoms of the Stone World" 
+    raw: "石の世界の二つの国 Ishi no Sekai no Futatsu no Kuni"
+    description: ""
+
+  - chapter: 16
+    name: "Kohaku" 
+    raw: "コハク"
+    description: ""

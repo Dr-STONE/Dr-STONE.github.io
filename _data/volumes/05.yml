@@ -1,0 +1,47 @@
+volume: 05
+name: "Tale for the Ages"
+chapters:
+  - chapter: 35
+    name: "The Masked Warrior" 
+    raw: "仮面の戦士 Kamen no Senshi"
+    description: ""
+
+  - chapter: 36
+    name: "Kinro and Ginro" 
+    raw: "金ギン狼ローと銀キン狼ロー Ginrō to Kinrō"
+    description: ""
+
+  - chapter: 37
+    name: "Science-User Chrome" 
+    raw: "科学使いクロム Kagaku Tsukai Kuromu"
+    description: ""
+
+  - chapter: 38
+    name: "Master of Flame" 
+    raw: "MASTERマスター OFオブ FLAMEフレイム Masutā Obu Fureimu"
+    description: ""
+
+  - chapter: 39
+    name: "And the Winner is..." 
+    raw: "ANDアンド THEザ WINNERウィナー ISイズ Ando za Winā Izu"
+    description: ""
+
+  - chapter: 40
+    name: "Two Million Years in the Making" 
+    raw: "２００万年の結晶 Nihyakuman-nen no Kesshō"
+    description: ""
+
+  - chapter: 41
+    name: "Doctor Stone" 
+    raw: "DOCTORドクター STONEストーン Dokutā Sutōn"
+    description: ""
+
+  - chapter: 42
+    name: "Tale for the Ages" 
+    raw: "幾千年物語 Ikusen-nen Monogatari"
+    description: ""
+
+  - chapter: 43
+    name: "Humanity's Final Six" 
+    raw: "人類 最後の６人 Jinrui Saigo no Roku-nin"
+    description: ""

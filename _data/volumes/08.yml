@@ -1,0 +1,47 @@
+volume: 08
+name: "Hot Line"
+chapters:
+  - chapter: 62
+    name: "Double Chase" 
+    raw: "ダブル チェイス Daburu Cheisu"
+    description: ""
+
+  - chapter: 63
+    name: "Information Warfare" 
+    raw: "情報戦争 Jōhō Sensō"
+    description: ""
+
+  - chapter: 64
+    name: "Hotline" 
+    raw: "HOTホットLINEライン Hotto Rain"
+    description: ""
+
+  - chapter: 65
+    name: "Call from the Dead" 
+    raw: "死者からの電話 Shisha Kara no Denwa"
+    description: ""
+
+  - chapter: 66
+    name: "Liars and Truth Tellers" 
+    raw: "ウソつきと正直者 Usotsuki to Shōjiki-sha"
+    description: ""
+
+  - chapter: 67
+    name: "Full Mobilization" 
+    raw: "全軍出撃 Sengun Shutsugeki"
+    description: ""
+
+  - chapter: 68
+    name: "Flames of Revolution" 
+    raw: "革命の火 Kakumei no Hi"
+    description: ""
+
+  - chapter: 69
+    name: "Steam Gorilla" 
+    raw: "STEAMスチーム GORILLAゴリラ Suchīmu Gorira"
+    description: ""
+
+  - chapter: 70
+    name: "Paper Shield" 
+    raw: "PAPERペーパー SHIELDシールド Pēpā Shīrudo"
+    description: ""

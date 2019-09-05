@@ -1,0 +1,68 @@
+volume: 13
+name: "Weekly Shōnen Jump Chapters"
+chapters:
+  - chapter: 107
+    name: "Ace in the Hole on the Ship of Science" 
+    raw: "切り札は科学の船に Kirifuda wa Kagaku no Fune ni"
+    description: ""
+
+  - chapter: 108
+    name: "Double Ace in the Hole" 
+    raw: "切り札二枚 Kirifuda Ni-mai"
+    description: ""
+
+  - chapter: 109
+    name: "Great Escape" 
+    raw: "大脱走 Dai Dassō"
+    description: ""
+
+  - chapter: 110
+    name: "Beauty Science" 
+    raw: "美しい科学 Utsukushī Kagaku"
+    description: ""
+
+  - chapter: 111
+    name: "Science Wars" 
+    raw: "SCIENCEサイエンス WARSウォーズ Saiensu Wōzu"
+    description: ""
+
+  - chapter: 112
+    name: "King of Three Dimensions" 
+    raw: "三次元の王者 Sanjigen no Ōja"
+    description: ""
+
+  - chapter: 113
+    name: "Cryptography Science" 
+    raw: "暗号通信の科学 Angō Tsūshin no Kagaku"
+    description: ""
+
+  - chapter: 114
+    name: "Silently, Science Pierces the Stone" 
+    raw: "そして科学は静かに石を穿つ Soshite Kagaku wa Shizuka ni Ishi o Ugatsu"
+    description: ""
+
+  - chapter: 115
+    name: "One Second, One Grain" 
+    raw: "一秒と一粒 Ichi-byō to Hitotsubu"
+    description: ""
+
+  - chapter: 116
+    name: "Miracle in Hand" 
+    raw: "奇跡はこの掌で Kiseki wa Kono Tenohira de"
+    description: ""
+
+  - chapter: 117
+    name: "The Kingdom of Science Strikes Back" 
+    raw: "反撃の科学王国 Hangeki no Kagaku Ōkoku"
+    description: ""
+
+  - chapter: 118
+    name: "Silent Soldiers" 
+    raw: "SILENTサイレント SOLDIERSソルジャーズ Sairento Sorujāzu"
+    description: ""
+
+  - chapter: 119
+    name: "Science Soldiers" 
+    raw: "SCIENCEサイエンス SOLDIERSソルジャーズ Saiensu Sorujāzu"
+    description: ""
+

@@ -1,0 +1,47 @@
+volume: 09
+name: "Final Battle"
+chapters:
+  - chapter: 71
+    name: "Prison Break" 
+    raw: "PRISONプリズン BREAKブレイク Purizun Bureiku"
+    description: ""
+
+  - chapter: 72
+    name: "Experience Points" 
+    raw: "経験値 Keiken-chi"
+    description: ""
+
+  - chapter: 73
+    name: "Top-Secret Mission" 
+    raw: "極秘のミッション Gokuhi no Misshon"
+    description: ""
+
+  - chapter: 74
+    name: "Fateful 20 Seconds" 
+    raw: "運命の20秒 Unmei no Nijū-byō"
+    description: ""
+
+  - chapter: 75
+    name: "20-Second Countdown" 
+    raw: "COUNTカウント DOWNダウン 20 Kaunto Daun Nijū"
+    description: ""
+
+  - chapter: 76
+    name: "Final Battle" 
+    raw: "FINALファイナル BATTLEバトル Fainaru Batoru"
+    description: ""
+
+  - chapter: 77
+    name: "The Power of Science" 
+    raw: "科学の力 Kagaku no Chikara"
+    description: ""
+
+  - chapter: 78
+    name: "That Which Destroys or Saves" 
+    raw: "壊すもの救うもの Kowasu mono Sukū mono"
+    description: ""
+
+  - chapter: 79
+    name: "For This Very Moment" 
+    raw: "すつとこの瞬間を Sutsu to kono Shunkan wo"
+    description: ""

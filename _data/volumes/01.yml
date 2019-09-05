@@ -1,0 +1,42 @@
+volume: 01
+name: "Stone World"
+chapters:
+  - chapter: 1
+    name: "Stone World" 
+    raw: "ストーン ワールド Sutōn Wārudo"
+    description: ""
+
+  - chapter: 2
+    name: "Fantasy vs. Science" 
+    raw: "ファンタシ バーサス サイエンス Fantashī Bāsasu Saiensu"
+    description: ""
+
+  - chapter: 3
+    name: "Kings of the Stone World" 
+    raw: "キング オブ ザ ストーン ワールド Kingu obu za Sutōn Wārudo"
+    description: ""
+
+  - chapter: 4
+    name: "Pure White Seashells" 
+    raw: "純白の貝殻 Junpaku no Kaiga"
+    description: ""
+
+  - chapter: 5
+    name: "Yuzuriha" 
+    raw: "杠 (ゆずりは) Yuzuriha"
+    description: ""
+
+  - chapter: 6
+    name: "Taiju vs. Tsukasa" 
+    raw: "大樹VSバーサス司 Taiju Bāsasu Tsukasa"
+    description: ""
+
+  - chapter: 7.0
+    name: "The Gunpowder Adventure" 
+    raw: "火薬冒険 Kayaku Bōken"
+    description: ""
+
+  - chapter: 7.5
+    name: "Let's Make Some Pottery!!" 
+    raw: ""
+    description: ""

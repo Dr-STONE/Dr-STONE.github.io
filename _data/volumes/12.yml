@@ -1,0 +1,47 @@
+volume: 12
+name: "The Secret of Petrification"
+chapters:
+  - chapter: 98
+    name: "Ryusui" 
+    raw: "龍水 Ryusui"
+    description: ""
+
+  - chapter: 99
+    name: "Kingdom of Science Photo Journal" 
+    raw: "科学王国写真日記 Kagaku Ōkoku Shashin Nikki"
+    description: ""
+
+  - chapter: 100
+    name: "Origin of the 100 Tales" 
+    raw: "はじまりの百物語 Hajimari no Hyaku Monogatari"
+    description: ""
+
+  - chapter: 101
+    name: "Treasure Chest" 
+    raw: "TREASUREトレジャー BOXボックス Torejā Bokkusu"
+    description: ""
+
+  - chapter: 102
+    name: "Perseus, Ship of Science" 
+    raw: "科学船ペルセウス Kagakusen Peruseusu"
+    description: ""
+
+  - chapter: 103
+    name: "Light of Hope and Despair" 
+    raw: "絶望と希望の光 Zetsubō to Kibō no Hikari"
+    description: ""
+
+  - chapter: 104
+    name: "Men of Forensics" 
+    raw: "科捜研の男たち Kasōken no Otoko-tachi"
+    description: ""
+
+  - chapter: 105
+    name: "The Island's Great Beauty" 
+    raw: "島一の美少女 Shimaichi no Bishōjo"
+    description: ""
+
+  - chapter: 106
+    name: "The Secret of Petrification" 
+    raw: "石化の秘密 Sekka no Himitsu"
+    description: ""
