@@ -206,15 +206,23 @@
 
       function getPage() {
         var pageNo = 1;
+        var lastPage = "";
+        
         if (getUrlParam('p') != 0) {
           pageNo = getUrlParam('p');
+          lastPage = getUrlParam('p');
         }
 
         if (getUrlParam('page') != 0) {
           pageNo = getUrlParam('page');
+          lastPage = getUrlParam('page');
         }
 
-        pageNo = Math.floor((pageNo/2));
+        if (lastPage == 'last') {
+          $('.main-carousel').flickity( 'select', $('.main-carousel').flickity().data('flickity').slides.length - 1, false, true );
+        } else {
+          pageNo = Math.floor((pageNo/2));
+        }
 
         if (pageNo > 1) {
           // $( '#bb-bookblock' ).bookblock( 'jump', pageNo );
@@ -292,7 +300,7 @@
                 case arrow.right:
                   if (flkty.selectedIndex == 0 && selectedPage == 0) {
                     {% if prevurl %}
-                    location.href = "{{prevurl}}";
+                    location.href = "{{prevurl}}?page=last";
                     {% endif %}
                   }
                   selectedPage = flkty.selectedIndex;
