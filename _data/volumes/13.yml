@@ -68,11 +68,16 @@ chapters:
 
   - chapter: 120
     name: "Top Seacret" 
-    raw: "TOP SEACRET"
+    raw: "TOPトップ SEACRETシークリート Toppu Shīkurīto"
     description: ""
 
   - chapter: 121
     name: "Medusa's True Face" 
-    raw: "MEDUSA'S TRUE FACE"
+    raw: "石化光線の素顔 Medeyūsa no Sugao"
+    description: ""
+
+  - chapter: 122
+    name: "Brain-Battle Puzzle Pieces" 
+    raw: "頭脳戦のパズルピース Zunō-sen no pazurupīsu"
     description: ""
 
